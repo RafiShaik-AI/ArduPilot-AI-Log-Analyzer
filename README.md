@@ -20,6 +20,10 @@ The current script (`demo_analyzer.py`) demonstrates a core logic engine that:
 - [ ] Classification model for "Crash vs. Pilot Error"
 - [ ] CLI Tool for automated batch log processing
 
+## 📊 Demo Execution
+Below is the output of the `demo_analyzer.py` script running in GitHub Codespaces, successfully identifying flight anomalies:
+
+![ArduPilot AI Diagnostic Output](assets/demo-output.png)
 
 ## 👨‍💻 Contributor
 **Shaik Rafi** - 2nd Year AIML Student  
