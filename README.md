@@ -23,7 +23,7 @@ The current script (`demo_analyzer.py`) demonstrates a core logic engine that:
 ## 📊 Demo Execution
 Below is the output of the `demo_analyzer.py` script running in GitHub Codespaces, successfully identifying flight anomalies:
 
-![AI Diagnostic Output](assets/demo-output.png)
+![AI Diagnostic Output](assets/demo_output.png)
 ## 👨‍💻 Contributor
 **Shaik Rafi** - 2nd Year AIML Student  
 *Mentor: Nate Mailhot*
