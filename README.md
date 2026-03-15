@@ -1,6 +1,4 @@
-# ArduPilot-AI-Log-Analyzer_
-
-# ArduPilot AI-Assisted Log Diagnosis__
+# ArduPilot AI-Assisted Log Diagnosis_
 
 ## 📌 Project Overview
 This repository serves as a technical proof-of-concept for the **AI-Assisted Log Diagnosis** project under ArduPilot for GSoC 2026. The goal is to bridge the gap between complex binary telemetry data and human-readable flight insights.
