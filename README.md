@@ -20,6 +20,7 @@ The current script (`demo_analyzer.py`) demonstrates a core logic engine that:
 - [ ] Classification model for "Crash vs. Pilot Error"
 - [ ] CLI Tool for automated batch log processing
 
+
 ## 👨‍💻 Contributor
 **Shaik Rafi** - 2nd Year AIML Student  
 *Mentor: Nate Mailhot*
